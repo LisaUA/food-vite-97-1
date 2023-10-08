@@ -1,0 +1,11 @@
+:root {
+    --main-text-color: #2C2C2C;
+    --green-color: #BBF330;
+    --yellow-color: #FFE550;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: var(--main-text-color);
+    font-size: 16px;
+}
